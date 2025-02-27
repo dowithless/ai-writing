@@ -8,7 +8,7 @@ export default defineConfig({
   base: "/ai-writing/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: "/public/memo.png",
+    logo: "/memo.png",
     nav: [
       {
         text: "副业搞钱100问",

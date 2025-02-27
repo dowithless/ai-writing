@@ -11,7 +11,7 @@ hero:
       text: 开始阅读
       link: /副业搞钱100问/
   image:
-    src: /public/memo.png
+    src: /memo.png
     alt: AI Writing
 
 features:
