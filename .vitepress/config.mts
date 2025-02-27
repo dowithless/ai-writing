@@ -25,7 +25,7 @@ export default defineConfig({
         {
           text: "方向选择(20问)",
           items: getSidebar("副业搞钱100问/方向选择"),
-          collapsed: true,
+          collapsed: false,
         },
         {
           text: "技能提升(20问)",
